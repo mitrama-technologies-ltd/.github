@@ -50,5 +50,3 @@ We adhere to high engineering standards to ensure data integrity and reliability
 * **Headquarters**: Bauchi, Nigeria.
 * **Email**: `contact@mitrama.com` | `dpo@mitrama.com` (Data Protection).
 * **RC Number**: 9365303.
-
-Would you like me to draft the **CONTRIBUTING.md** file for our internal development team to standardize our PR process?
